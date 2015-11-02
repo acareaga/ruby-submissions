@@ -33,7 +33,7 @@ submissions:
     repo: https://github.com/acareaga/contact-manager
     checkpoint 1 sha: 88a26a7ced219a807546e30f75efbd040afaa165
     checkpoint 2 sha:
-    checkpoint 3 sha: 
+    checkpoint 3 sha: b18f2d3825daa3fa793e9e24becdf3c9436bb420
   Ross Edfort:
     repo: https://github.com/rossedfort/contact_manager
     checkpoint 1 sha: 4421c8d9d05c01b7ac53950ae90e3c77c382e08c
