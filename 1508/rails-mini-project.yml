@@ -17,9 +17,6 @@ submissions:
   Pat Wey:
     repo:
     Heroku url:  
-  Aaron Careaga:
-    repo:
-    Heroku url:  
   Ross Edfort:
     repo:
     Heroku url:  
@@ -56,9 +53,9 @@ submissions:
   Robbie Lane:
     repo:
     Heroku url:  
-  Shannon Paige:
-    repo:
-    Heroku url:  
+  Shannon Paige & Aaron Careaga:
+    repo: https://github.com/acareaga/point-box
+    Heroku url: https://polar-gorge-7335.herokuapp.com/
   John Slota:
     repo:
     Heroku url:  
